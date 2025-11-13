@@ -77,9 +77,9 @@ bool firstMouse = true;
 // ------------------------------------------
 
 // --- VOXEL WORLD CONSTANTS ---
-const int WORLD_SIZE_X = 64;
+const int WORLD_SIZE_X = 20;
 const int WORLD_SIZE_Y = 16; // A thin slice of ground
-const int WORLD_SIZE_Z = 64;
+const int WORLD_SIZE_Z = 20;
 // -----------------------------
 
 // A simple 3D array to represent the world. 
