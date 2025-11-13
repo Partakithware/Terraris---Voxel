@@ -1,0 +1,28 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "name": "Dirt",
+            "texture": "../textures/dirt.png",
+            "is_opaque": true
+        },
+        {
+            "id": 2,
+            "name": "Grass",
+            "texture": "../textures/grass.png",
+            "is_opaque": true
+        },
+        {
+            "id": 3,
+            "name": "Water",
+            "texture": "../textures/water.png",
+            "is_opaque": false
+        },
+        {
+            "id": 4,
+            "name": "Stone",
+            "texture": "../textures/stone.png",
+            "is_opaque": true
+        }
+    ]
+}
