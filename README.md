@@ -3,6 +3,9 @@ An example project written in C++
 
 Project Title & Description: "Terraris Engine: A C++ OpenGL Voxel Renderer."
 
+Note:
+NO TEXTURES INCLUDED.
+
 Features: (e.g., AABB Collision, DDA Raycasting, Optimized Mesh Generation).
 
 Dependencies: List all external libraries (GLFW, GLAD, GLM, STB_Image, nlohmann/json).
